@@ -1,9 +1,7 @@
 # # duyhelloworld
 This repsitory is link to my first repo in my learning programing process!
-
 All files are free for everyone and update via 22:20 20/6/2022!
 File named 'nghichflo.html' and located at E:\F8\EtTiEmEo ..
-
 <!DOCTYPE html>
 <html>
     <head>
@@ -29,8 +27,6 @@ File named 'nghichflo.html' and located at E:\F8\EtTiEmEo ..
             9. div khối bao, trông chả khác mọe gì 
          -->
         <center>[nghichflo.zip](https://github.com/Cafeine1991/duyhelloworld/files/8941938/nghichflo.zip)
-
-            <h1>Mình là Duy có ny!</h1>
         </center>
         <h3>
             <p>Quá Ghê gớm</p>
@@ -46,11 +42,11 @@ File named 'nghichflo.html' and located at E:\F8\EtTiEmEo ..
         </b>
     </h2>
     <ul>
-        <li>S <input name="thongthao" type="radio"> </li>
-        <li>A <input name="thongthao" type="radio"> </li>
-        <li>B <input name="thongthao" type="radio"> </li>
-        <li>C <input name="thongthao" type="radio"> </li>
-        <li>D <input name="thongthao" type="radio"> </li>
+        <li>S <input name="tt" type="radio"> </li>
+        <li>A <input name="tt" type="radio"> </li>
+        <li>B <input name="tt" type="radio"> </li>
+        <li>C <input name="tt" type="radio"> </li>
+        <li>D <input name="tt" type="radio"> </li>
     </ul>
     <a href="https://www.youtube.com/watch?v=bYya_2mhH9E">Link Video gốc cho ai cần</a>
     <p>Dưới đây là bảng phân loại flo mà bạn sở hữu:</p>
@@ -86,9 +82,7 @@ File named 'nghichflo.html' and located at E:\F8\EtTiEmEo ..
                 <td>Ko còn gì để nói</td>
                 <td>0% (trừ trường hợp ytb bét flo vào giả ngu thì ok :>)</td>
         </tbody>
-    </table>
-<!--         <button style="color :blue; border-radius: 5px; border: 5px solid red;">
-            Cái nút thừa  ^^
-        </button> -->
-    </body hihi>
+    </table><!-- <button>Cái nút thừa  ^^</button> -->
+    </body>
 </html>
+https://github.com/Cafeine1991/duyhelloworld/edit/main/README.md
