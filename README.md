@@ -87,10 +87,8 @@ File named 'nghichflo.html' and located at E:\F8\EtTiEmEo ..
                 <td>0% (trừ trường hợp ytb bét flo vào giả ngu thì ok :>)</td>
         </tbody>
     </table>
-    <center>
 <!--         <button id="testing" onclick="myFunction()" style="color :blue; border-radius: 5px; border: 5px solid red;">
             Cái nút này để show alert!
         </button> -->
-    </center>
     </body>
 </html>
