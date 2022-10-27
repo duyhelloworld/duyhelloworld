@@ -43,10 +43,10 @@
 > **Extension**
 > - For language : C/C++ pack, Java (by VScode suggest + [Generator](https://marketplace.visualstudio.com/items?itemName=sohibe.java-generate-setters-getters)), [auto-rename tags](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag), [Live-server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 > - For ultility : 
->       - [vscode-pdf](https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf)
->       - [MySQL](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-mysql-client2)
->       - [Better Comment](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
->       - [Intelligen AI](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
+>       - [vscode-pdf](https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf) <br>
+>       - [MySQL](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-mysql-client2)<br>
+>       - [Better Comment](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)<br>
+>       - [Intelligen AI](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)<br>
 >       -[Snipped](https://marketplace.visualstudio.com/items?itemName=JeffersonLicet.snipped)
 
 3. Postman
