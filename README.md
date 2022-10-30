@@ -1,7 +1,7 @@
 # Welcome to my Github account
 
 + This file is created by .md which is a language quickly display HTML in github. [Repo to learn](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) or [of microsoft](https://learn.microsoft.com/en-us/azure/devops/project/wiki/markdown-guidance?view=azure-devops)
-> Vietnamese mode is in [here](overview_vi.md) of file
+> Vietnamese mode is in [here](overview_vi.md)
 
 - In this overview, i will show all my desktop which I'm using to code
 ___
