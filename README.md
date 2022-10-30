@@ -29,7 +29,7 @@ ____
 <p align="center"><img src="blue-screen.png"></p>
 
 - Why it not notify the error for user like Linux?
-<p align=center>![](linux-error-codes.png)</p>
+<p align=center><img src=linux-error-codes.png></p>
 > Although I decried Windows a lot, the fact that Window is do some work better than Linux
 > - Popular and friendly for beginner
 > - Security
